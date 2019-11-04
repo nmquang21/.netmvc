@@ -95,3 +95,16 @@ E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Runtime.Co
 E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Extensions.xml
 E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.InitialCreate.resources
 E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.UpdateMemberTable.resources
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.InitialCreate1.resources
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.CreateSensor.resources
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.CreateSensor1.resources
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Cors.dll
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.dll
+E:\APTECH\Sem3\ASP.NET MVC\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.xml

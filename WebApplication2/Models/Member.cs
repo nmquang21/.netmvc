@@ -28,5 +28,12 @@ namespace WebApplication2.Models
         public string email { get; set; }
 
         public string password { get; set; }
+
+        public long createAt { get; set; }
+        public long updatedAt { get; set; }
+        public long deletedAt { get; set; }
+        public int status { get; set; }
+
+        public enum MemberStatus { Active = 1, Deactive = 0, Deleted =-1}
     }
 }

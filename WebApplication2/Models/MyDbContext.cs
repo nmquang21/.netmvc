@@ -15,5 +15,7 @@ namespace WebApplication2.Models
 
         }
         public DbSet<Member> Members { get; set; }
+        public DbSet<Song> Songs { get; set; }
+        public DbSet<Sensor> Sensors { get; set; }
     }
 }
