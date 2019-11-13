@@ -7,13 +7,13 @@ namespace WebApplication2.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class CreateSensor : IMigrationMetadata
+    public sealed partial class create : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(CreateSensor));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(create));
         
         string IMigrationMetadata.Id
         {
-            get { return "201910311734544_CreateSensor"; }
+            get { return "201911111251361_create"; }
         }
         
         string IMigrationMetadata.Source
